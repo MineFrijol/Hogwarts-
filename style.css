@@ -1,0 +1,16 @@
+
+    body{
+text-align:center;
+}
+    #video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+#vida_escolar img{
+    width:40%;
+    height:40%;
+}
+#vida_escolar h5 , #vida-escolar p{
+    margin:20px;
+}
